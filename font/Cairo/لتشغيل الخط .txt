@@ -1,0 +1,24 @@
+
+/* font-family: 'Cairo', sans-serif; */
+
+
+/* my font */
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+@font-face {
+	font-family: 'Cairo', sans-serif;
+	src: url("../font/Cairo/Cairo-VariableFont_wght.ttf");
+
+	src: url("../font/Cairo/static/Cairo-Black.ttf");
+	src: url("../font/Cairo/static/Cairo-Bold.ttf");
+	src: url("../font/Cairo/static/Cairo-ExtraBold.ttf");
+	src: url("../font/Cairo/static/Cairo-ExtraLight.ttf");
+	src: url("../font/Cairo/static/Cairo-Light.ttf");
+	src: url("../font/Cairo/static/Cairo-Medium.ttf");
+	src: url("../font/Cairo/static/Cairo-Regular.ttf");
+	src: url("../font/Cairo/static/Cairo-SemiBold.ttf");
+
+
+}
